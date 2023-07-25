@@ -1,7 +1,7 @@
 # serverless-api
 # [Deploy Link](https://5ebv87urc9.execute-api.us-east-1.amazonaws.com/people/2)
 # What is the root URL to your API? /people
-# What is the root URL to your API?
+# What are the routes?
 ## * get /people => get all persons
 ## * get /people/{id} => get one person
 ## * put /people/{id} => update one person
